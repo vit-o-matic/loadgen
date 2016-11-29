@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/harish.maiya/project/vit-o-matic/loadgen/conf/application.conf,/Users/harish.maiya/project/vit-o-matic/loadgen/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/harish.maiya/project/vit-o-matic/loadgen/conf/generated.keystore,/Users/harish.maiya/project/vit-o-matic/loadgen/target/scala-2.11/classes/generated.keystore)[0m
+[0m[[0mdebug[0m] [0m	(/Users/harish.maiya/project/vit-o-matic/loadgen/conf/logback.xml,/Users/harish.maiya/project/vit-o-matic/loadgen/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/harish.maiya/project/vit-o-matic/loadgen/conf/routes,/Users/harish.maiya/project/vit-o-matic/loadgen/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/harish.maiya/project/vit-o-matic/loadgen/conf/secure.conf,/Users/harish.maiya/project/vit-o-matic/loadgen/target/scala-2.11/classes/secure.conf)[0m
